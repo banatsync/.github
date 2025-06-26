@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/banatsync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banatsync" height="30" width="40" /></a>
-<a href="https://fb.com/banatsync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banatsync" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/banatsync/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banatsync" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/BanatSync/61571842287685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banatsync" height="30" width="40" /></a>
 <a href="https://instagram.com/banatsync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banatsync" height="30" width="40" /></a>
 <a href="https://discord.gg/banatsync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="banatsync" height="30" width="40" /></a>
 </p>
