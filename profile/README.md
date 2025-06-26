@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banatsync&label=Profile%20views&color=0e75b6&style=flat" alt="banatsync" /> </p>
 
 - 🌐 [Website](https://banatsync.com)
+- 🛒 [Billing](https://banatsync.com)
 
 - 🕛 Currently working on **Our personal Proxmox dashboard.**
 
-- 🛒 [Billing](https://banatsync.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
